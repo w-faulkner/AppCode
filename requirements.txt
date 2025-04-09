@@ -1,0 +1,7 @@
+pip install plotly
+
+pip install streamlit
+
+streamlit run streamlit_app.py
+
+pip install folium 
